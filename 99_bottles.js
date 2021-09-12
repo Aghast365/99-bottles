@@ -1,5 +1,4 @@
 function bottleSong(bottles) {
-	// Write your code here!
 	function minusOne(bottles, bottlesLeft) {
 	if (bottlesLeft < 0) {return;}
 	
